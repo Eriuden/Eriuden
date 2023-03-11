@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eriuden
-- 👀 I’m interested in MERN, Python
+- 👀 I’m interested in MERN, Python, nextJS
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 0624662451 antoinecarrette@hotmail.fr
