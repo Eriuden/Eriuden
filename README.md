@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eriuden
+- 👋 Hi, I’m @Eriuden, the code wizard
 - 👀 I’m interested in MERN, Python, nextJS, LLM
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on ...
